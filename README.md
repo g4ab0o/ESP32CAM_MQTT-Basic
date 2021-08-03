@@ -5,7 +5,7 @@ Puedes encontrar el curso correspondiente a este ejercicio en el siguiente enlac
 
 https://edu.codigoiot.com/
 
-### Requisitos
+## Requisitos
 Para que el código de este repositorio funcione, es necesario contar con lo siguiente:
 
 - ESP32CAM AI-Thinker
@@ -18,7 +18,7 @@ Para que el código de este repositorio funcione, es necesario contar con lo sig
 - NodeRed corriendo de forma local en el puerto 1880
 - Nodos Dashboard para NodeRed
 
-### Guías
+## Guías
 Para configurar correctamente la IDE de Arduino para trabajar con el ESP32CAM, puedes consultar el siguiente enlace.
 
 https://edu.codigoiot.com/course/view.php?id=850
@@ -53,3 +53,12 @@ Para observar el funcionamiento de este proyecto deberás realizar lo siguiente.
 Podrás observar una cuenta progresiva, la cual envía el prográma base del ESP32CAM. Puedes controlar el led flash del ESP32CAM con el switch del dashboard.
 
 Por: [Hugo Vargas](https://github.com/hugoescalpelo)
+
+### Modificaciones
+
+Modificado por:Gabriel ulises Lagunez Medina 
+Fecha: 03/ago/2021
+Descricion: Se agrego el ssdi de red local y el password
+Cambio del nombre del tema a suscribirse `esp32/data` por `esp32/data/uli`
+Se agregan videos de los resultados del codigo en arduino y el codigo .json en NodeRed
+
